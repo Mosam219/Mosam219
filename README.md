@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mosam Patel</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mosam219&label=Profile%20views&color=0e75b6&style=flat" alt="mosam219" /> </p>
-
 - 📫 How to reach me **mosampatel78@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
