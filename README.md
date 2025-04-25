@@ -3,6 +3,7 @@
 
 ### Some languages I'm familiar with
 * Javascript/Typescript
+* ReactJs
 * Ruby on rails
 * C++
 * Python
